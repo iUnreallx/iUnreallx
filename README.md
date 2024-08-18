@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/💬-Telegram-violet" alt="Telegram">
   </a>
   <a href="https://github.com/iUnreallx">
-    <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="Unreallx projects">
+    <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="🔥 Unreallx projects">
   </a>
+   <a href="https://github.com/iUnreallx?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎 Rx-repositories-red" alt="My repo">
+   </a>
 </p>
