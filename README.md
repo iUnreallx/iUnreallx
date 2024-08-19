@@ -6,7 +6,7 @@
 ![Python - Python](https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004)
 [![My - projects](https://img.shields.io/badge/🔥My-Projects-ed9004)](https://github.com/iUnreallx?tab=repositories)
 
-![Git-info](https://github-readme-stats.vercel.app/api?username=iUnreallx&show_icons=true&title_color=ed9004&hide_border=true&icon_color=ed9004&theme=dark)
+![Git-info](https://github-readme-stats.vercel.app/api?username=iUnreallx&show_icons=true&title_color=ed9004&hide_border=true&icon_color=ed9004&theme=dark&rank_icon=github)
 
 
 🔥 **en:**
@@ -14,7 +14,7 @@
 * I am currently at the stage of development and training in my field. I practice and grab every opportunity to gain valuable development experience.
   
 😍 **ru**
-* Привет, Я python-backend разработчик. Занимаюсь разрабатываю ```тг-ботов```, ```парсеры```, свои ```библиотеки```, интеграцией с ```api``` и написанием собственных ```нейронных сетей```. В частности планирую изучить js (javascript), c++ (cpp), html, css.
+* Привет, Я python-backend разработчик. Занимаюсь разработкой ```тг-ботов```, ```парсеров```, своих ```библиотек```, интеграций с ```api``` и написанием собственных ```нейронных сетей```. В частности планирую изучить js (javascript), c++ (cpp), html, css.
 * Сейчас нахожусь на стадии развития и обучения в своей сфере. Практикуюсь и хватаюсь за любую возможность получить ценный опыт разработки.
 
 
