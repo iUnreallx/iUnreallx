@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=33&letterSpacing=1px;&duration=3500&pause=1000&color=F79E2F&center=true&width=500&lines=Hi there" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=33&letterSpacing=1px;&duration=3500&pause=1000&color=F79E2F&center=true&width=500&lines=< Hi There! >" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Telegram-Telegram-ed9004?logo=telegram&logoColor=ed9004" alt="Telegram">
   </a>
   <a href="https://github.com/iUnreallx">
-    <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="🎁 Unreallx projects">
+    <img src="https://img.shields.io/badge/🔥 Unreallx-projects-ed9004" alt="🎁 Unreallx projects">
   </a>
    <a href="https://github.com/iUnreallx?tab=repositories">
-    <img src="https://img.shields.io/badge/⌛ Rx-repositories-red" alt="My repo">
+    <img src="https://img.shields.io/badge/⌛ Rx-repositories-ed9004" alt="My repo">
    </a>
 </p>
 
