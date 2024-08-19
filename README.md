@@ -3,6 +3,7 @@
 </p>
 
 [![Telegram - Telegram](https://img.shields.io/badge/Telegram-Telegram-ed9004?logo=telegram&logoColor=ed9004)](https://t.me/unreallx)
+[![Tg - channel](https://img.shields.io/badge/🪙Tg-channel-ed9004)](https://t.me/Reallx_channel)
 ![Python - Python](https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004)
 [![My - projects](https://img.shields.io/badge/🔥My-Projects-ed9004)](https://github.com/iUnreallx?tab=repositories)
 
@@ -16,8 +17,6 @@
 😍 **ru**
 * Привет, Я python-backend разработчик. Занимаюсь разработкой ```тг-ботов```, ```парсеров```, своих ```библиотек```, интеграций с ```api``` и написанием собственных ```нейронных сетей```. В частности планирую изучить js (javascript), c++ (cpp), html, css.
 * Сейчас нахожусь на стадии развития и обучения в своей сфере. Практикуюсь и хватаюсь за любую возможность получить ценный опыт разработки.
-
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;***My stack / Мой стек***
 > <img src="https://skillicons.dev/icons?i=py,git,postgres,pycharm,vscode,github,redis,docker,figma,gitlab,linux,rabbitmq,ubuntu,vim">
