@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Unreallx">
-    <img src="https://img.shields.io/badge/💬-Telegram-violet" alt="Telegram">
+  <a href="https://t.me/unreallx">
+    <img src="https://img.shields.io/badge/Telegram-Telegram-ed9004?logo=telegram&logoColor=ed9004" alt="Telegram">
   </a>
   <a href="https://github.com/iUnreallx">
     <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="🎁 Unreallx projects">
