@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=33&letterSpacing=1px;&duration=3500&pause=1000&color=F79E2F&center=true&width=600&lines=Hi There!" alt="Typing SVG">
-</p>
-
 [![Telegram - Telegram](https://img.shields.io/badge/Telegram-Telegram-ed9004?logo=telegram&logoColor=ed9004)](https://t.me/unreallx)
 [![Tg - channel](https://img.shields.io/badge/🪙Tg-channel-ed9004)](https://t.me/Reallx_channel)
 ![Python - Python](https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004)
