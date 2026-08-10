@@ -20,8 +20,8 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 ## Featured work
 
 <p align="center">
-  <img src="./assets/redrive-card-rounded.svg" width="430">
-  <img src="./assets/elm327-emulator-card-rounded.svg" width="430">
+  <img src="./assets/redrive-card-rounded.svg" width="370">
+  <img src="./assets/elm327-emulator-card-rounded.svg" width="370">
 </p>
 
 ## Toolbox
