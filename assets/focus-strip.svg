@@ -1,0 +1,70 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus</title>
+  <desc id="desc">Product engineering, systems development, and intelligent automation</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08090D"/>
+      <stop offset="0.55" stop-color="#0D0D14"/>
+      <stop offset="1" stop-color="#130B16"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="52" y1="0" x2="1148" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4D00"/>
+      <stop offset="0.5" stop-color="#ED004C"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 38) rotate(146) scale(310 205)">
+      <stop stop-color="#7C3AED" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="258" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="258" rx="24" fill="url(#glow)"/>
+  <rect x="52" y="86" width="1096" height="2" rx="1" fill="url(#signal)" opacity="0.75"/>
+
+  <text x="52" y="46" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2.5">ENGINEERING FOCUS</text>
+  <text x="1148" y="46" text-anchor="end" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">PRODUCT  →  SYSTEMS  →  AUTOMATION</text>
+  <circle cx="52" cy="67" r="4" fill="#FF4D00"/>
+  <circle cx="600" cy="67" r="4" fill="#ED004C"/>
+  <circle cx="1148" cy="67" r="4" fill="#7C3AED"/>
+
+  <path d="M399 111V222" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <path d="M799 111V222" stroke="#FFFFFF" stroke-opacity="0.09"/>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="52" y="126" fill="#FF6A2A" font-size="12" font-weight="800" letter-spacing="2">01 / PRODUCT ENGINEERING</text>
+    <text x="52" y="162" fill="#FFFFFF" font-size="25" font-weight="760">Cross-platform products</text>
+    <text x="52" y="190" fill="#A1A1AA" font-size="15">Flutter applications with deliberate UX,</text>
+    <text x="52" y="212" fill="#A1A1AA" font-size="15">stable architecture and production focus.</text>
+    <g transform="translate(52 225)" font-size="11" font-weight="700">
+      <rect width="57" height="22" rx="6" fill="#FF4D00" fill-opacity="0.1" stroke="#FF4D00" stroke-opacity="0.35"/>
+      <text x="12" y="15" fill="#FF8A5C">FLUTTER</text>
+      <rect x="65" width="43" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="75" y="15" fill="#D4D4D8">DART</text>
+    </g>
+
+    <text x="440" y="126" fill="#F04478" font-size="12" font-weight="800" letter-spacing="2">02 / SYSTEMS ENGINEERING</text>
+    <text x="440" y="162" fill="#FFFFFF" font-size="25" font-weight="760">Native desktop systems</text>
+    <text x="440" y="190" fill="#A1A1AA" font-size="15">C++ / Qt / QML software connected to</text>
+    <text x="440" y="212" fill="#A1A1AA" font-size="15">real protocols, hardware and diagnostics.</text>
+    <g transform="translate(440 225)" font-size="11" font-weight="700">
+      <rect width="44" height="22" rx="6" fill="#ED004C" fill-opacity="0.1" stroke="#ED004C" stroke-opacity="0.35"/>
+      <text x="11" y="15" fill="#FF6B9A">C++</text>
+      <rect x="52" width="34" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="63" y="15" fill="#D4D4D8">QT</text>
+      <rect x="94" width="42" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="104" y="15" fill="#D4D4D8">QML</text>
+    </g>
+
+    <text x="840" y="126" fill="#A780FF" font-size="12" font-weight="800" letter-spacing="2">03 / INTELLIGENT AUTOMATION</text>
+    <text x="840" y="162" fill="#FFFFFF" font-size="25" font-weight="760">AI-assisted workflows</text>
+    <text x="840" y="190" fill="#A1A1AA" font-size="15">Practical automations that eliminate</text>
+    <text x="840" y="212" fill="#A1A1AA" font-size="15">routine and accelerate delivery.</text>
+    <g transform="translate(840 225)" font-size="11" font-weight="700">
+      <rect width="30" height="22" rx="6" fill="#7C3AED" fill-opacity="0.13" stroke="#8B5CF6" stroke-opacity="0.4"/>
+      <text x="10" y="15" fill="#BDA8FF">AI</text>
+      <rect x="38" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+      <text x="48" y="15" fill="#D4D4D8">WORKFLOWS</text>
+    </g>
+  </g>
+</svg>

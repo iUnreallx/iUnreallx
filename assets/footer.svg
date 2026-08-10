@@ -1,0 +1,14 @@
+<svg width="1200" height="105" viewBox="0 0 1200 105" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build test ship improve">
+  <defs>
+    <linearGradient id="line" x1="190" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF3D00" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#FF3D00"/>
+      <stop offset="0.55" stop-color="#ED004C"/>
+      <stop offset="0.8" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M180 28H1020" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="600" cy="28" r="5" fill="#ED004C"/>
+  <text x="600" y="72" fill="#8F9099" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" letter-spacing="4" text-anchor="middle">BUILD  ·  TEST  ·  SHIP  ·  IMPROVE</text>
+</svg>
