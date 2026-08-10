@@ -2,20 +2,48 @@
   <title id="title">iUnreallx — software developer</title>
   <desc id="desc">C++ and Qt, Flutter, and automation developer. Creator of ReDrive and ELM327 Emulator.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="0.62" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#15111B"/>
+    <linearGradient id="background" x1="40" y1="12" x2="1160" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B11"/>
+      <stop offset="0.34" stop-color="#0B111B"/>
+      <stop offset="0.68" stop-color="#101426"/>
+      <stop offset="1" stop-color="#15111C"/>
     </linearGradient>
-    <linearGradient id="accent" x1="70" y1="0" x2="530" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF4D00"/>
-      <stop offset="0.55" stop-color="#ED004C"/>
-      <stop offset="1" stop-color="#7C3AED"/>
+
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 48) rotate(19) scale(500 260)">
+      <stop stop-color="#2563EB" stop-opacity="0.13"/>
+      <stop offset="0.35" stop-color="#1D4ED8" stop-opacity="0.07"/>
+      <stop offset="0.72" stop-color="#172554" stop-opacity="0.025"/>
+      <stop offset="1" stop-color="#080B11" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 118) rotate(160) scale(500 285)">
+      <stop stop-color="#7C3AED" stop-opacity="0.12"/>
+      <stop offset="0.36" stop-color="#5B21B6" stop-opacity="0.065"/>
+      <stop offset="0.72" stop-color="#312E81" stop-opacity="0.025"/>
+      <stop offset="1" stop-color="#15111C" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(665 334) rotate(-90) scale(220 620)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.055"/>
+      <stop offset="0.58" stop-color="#0F766E" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#080B11" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="topSheen" x1="600" y1="1" x2="600" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.035"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 170) scale(760 320)">
+      <stop offset="0.68" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.28"/>
+    </radialGradient>
+
     <linearGradient id="terminalAccent" x1="744" y1="0" x2="1116" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FF4D00"/>
       <stop offset="1" stop-color="#ED004C"/>
     </linearGradient>
+
     <linearGradient id="dividerGlow" x1="71" y1="175" x2="358" y2="175" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#05080D" stop-opacity="0"/>
       <stop offset="0.08" stop-color="#2A2112" stop-opacity="0.15"/>
@@ -25,6 +53,7 @@
       <stop offset="0.92" stop-color="#2A2112" stop-opacity="0.15"/>
       <stop offset="1" stop-color="#05080D" stop-opacity="0"/>
     </linearGradient>
+
     <linearGradient id="dividerCore" x1="71" y1="175" x2="358" y2="175" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#000000" stop-opacity="0"/>
       <stop offset="0.10" stop-color="#7B5E22" stop-opacity="0.92"/>
@@ -32,24 +61,32 @@
       <stop offset="0.90" stop-color="#7B5E22" stop-opacity="0.92"/>
       <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </linearGradient>
+
     <radialGradient id="dividerDot" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(215 175) rotate(90) scale(6.5 6.5)">
       <stop offset="0" stop-color="#F4E2AE"/>
       <stop offset="0.42" stop-color="#D5B062"/>
       <stop offset="1" stop-color="#D5B062" stop-opacity="0"/>
     </radialGradient>
+
     <filter id="softGlow" x="-20%" y="-350%" width="140%" height="800%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="3.2" result="blur"/>
     </filter>
     <filter id="dotGlow" x="-280%" y="-280%" width="660%" height="660%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="2.2"/>
     </filter>
+
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.025"/>
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.018"/>
     </pattern>
   </defs>
 
   <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#background)" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#blueGlow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#violetGlow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#cyanGlow)"/>
+  <rect x="1" y="1" width="1198" height="86" rx="24" fill="url(#topSheen)"/>
   <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#vignette)"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <circle cx="74.5" cy="58.5" r="4.5" fill="#FF6A00"/>

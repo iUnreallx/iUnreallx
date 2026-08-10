@@ -24,61 +24,55 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 ## Featured work
 
 <p align="center">
-  <a href="https://github.com/iUnreallx/ReDrive">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ReDrive&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=FF4D00&amp;icon_color=ED004C">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ReDrive&amp;theme=default&amp;border_color=D0D7DE&amp;title_color=D93A00&amp;icon_color=ED004C">
-      <img width="49%" alt="ReDrive repository" src="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ReDrive&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=FF4D00&amp;icon_color=ED004C">
-    </picture>
-  </a>
-  <a href="https://github.com/iUnreallx/ELM327-Emulator">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ELM327-Emulator&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=9B7CFF&amp;icon_color=22D3EE">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ELM327-Emulator&amp;theme=default&amp;border_color=D0D7DE&amp;title_color=6D28D9&amp;icon_color=0891B2">
-      <img width="49%" alt="ELM327 Emulator repository" src="https://github-stats-extended.vercel.app/api/pin/?username=iUnreallx&amp;repo=ELM327-Emulator&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=9B7CFF&amp;icon_color=22D3EE">
-    </picture>
-  </a>
+  <img src="./assets/redrive-card-rounded.svg" width="49%" />
+  <img src="./assets/elm327-emulator-card-rounded.svg" width="49%" />
 </p>
 
 ## Toolbox
 
-<div align="center">
-  <sub><strong>CORE STACK</strong></sub>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,qt,flutter,dart,cmake&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,qt,flutter,dart,cmake&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,flutter,dart,cmake&amp;theme=light" alt="C++, Qt, Flutter, Dart and CMake" height="52">
-  </picture>
+<table>
+<tr>
+<td width="210" valign="middle">
+  <b>CORE STACK</b><br>
+  <sub>Primary technologies</sub>
+</td>
+<td valign="middle">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,python,qt&theme=dark" height="48"/>
+</td>
+</tr>
 
-  <br><br>
-  <sub><strong>ENGINEERING TOOLING</strong></sub>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,bash,androidstudio,vscode,linux,windows,apple&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,bash,androidstudio,vscode,linux,windows,apple&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,androidstudio,vscode,linux,windows,apple&amp;theme=light" alt="Git, GitHub, GitHub Actions, Bash, Android Studio, VS Code, Linux, Windows and Apple platforms" height="48">
-  </picture>
+<tr>
+<td width="210" valign="middle">
+  <b>ENGINEERING</b><br>
+  <sub>Build & infrastructure</sub>
+</td>
+<td valign="middle">
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,docker,linux,figma,ae&theme=dark" height="48"/>
+</td>
+</tr>
 
-  <br><br>
-  <sub><strong>AUTOMATION &amp; DOMAINS</strong></sub>
-  <br><br>
+<tr>
+<td width="210" valign="middle">
+  <b>AUTOMATION & DOMAINS</b><br>
+  <sub>Platforms & specialized tooling</sub>
+</td>
+<td valign="middle">
+  <img src="https://skillicons.dev/icons?i=javascript,androidstudio,apple,arduino&theme=dark" height="48"/>
+  &nbsp;
+  <img src="https://img.icons8.com/fluency/96/car-service.png" height="48" alt="OBD-II / CAN" title="OBD-II / CAN"/>
+  &nbsp;
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="48" alt="AI" title="AI"/>
+</td>
+</tr>
+</table>
 
-  ![AI automation](https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge&logoColor=white)
-  ![Cross-platform](https://img.shields.io/badge/Cross--platform-Engineering-ED004C?style=for-the-badge&logoColor=white)
-  ![OBD2](https://img.shields.io/badge/OBD--II-ELM327-FF4D00?style=for-the-badge&logoColor=white)
-</div>
-
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/iUnreallx">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=iUnreallx&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;show=prs_merged&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=FF4D00&amp;icon_color=ED004C&amp;custom_title=GitHub%20stats&amp;card_width=620">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=iUnreallx&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;show=prs_merged&amp;theme=default&amp;border_color=D0D7DE&amp;title_color=D93A00&amp;icon_color=ED004C&amp;custom_title=GitHub%20stats&amp;card_width=620">
-      <img alt="iUnreallx GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=iUnreallx&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;show=prs_merged&amp;theme=github_dark&amp;border_color=30363D&amp;title_color=FF4D00&amp;icon_color=ED004C&amp;custom_title=GitHub%20stats&amp;card_width=620" width="620">
-    </picture>
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iUnreallx&theme=github_dark"
+    width="100%"
+  />
 </p>
 
 ## Principles
@@ -89,6 +83,6 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 
 ## Contact
 
-The fastest way to reach me is on **Telegram: [@unreallx](https://t.me/unreallx)**.
+The fastest way to reach me is on **Telegram: [@unreallx](https://t.me/unreallx)** or in **X (Twitter): [@unreallxz](https://x.com/Unreallxz)**
 
 <img src="./assets/footer.svg" width="100%" alt="Build, test, ship, improve">
