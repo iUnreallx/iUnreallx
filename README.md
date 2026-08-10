@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="iUnreallx — C++ / Qt, Flutter and AI Automation developer" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <img alt="iUnreallx — C++ / Qt, Flutter and AI Automation developer">
 </picture>
 
 <div align="center">
@@ -8,10 +8,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@unreallx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unreallx)
 [![Projects](https://img.shields.io/badge/GitHub-All_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iUnreallx?tab=repositories)
 [![Total GitHub stars](https://img.shields.io/github/stars/iUnreallx?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Total%20stars&labelColor=27272A&color=FF1744)](https://github.com/iUnreallx?tab=repositories)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=FF4D00&center=true&vCenter=true&width=760&lines=Building+open-source+products;C%2B%2B+%2F+Qt+%7C+Flutter+%7C+AI+automation;Complex+systems.+Simple+interfaces.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,44 +20,55 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 ## Featured work
 
 <p align="center">
-  <img src="./assets/redrive-card-rounded.svg" width="49%" />
-  <img src="./assets/elm327-emulator-card-rounded.svg" width="49%" />
+  <img src="./assets/redrive-card-rounded.svg" width="430">
+  <img src="./assets/elm327-emulator-card-rounded.svg" width="430">
 </p>
 
 ## Toolbox
 
 <table>
 <tr>
-<td width="210" valign="middle">
+<td width="155" valign="middle">
   <b>CORE STACK</b><br>
   <sub>Primary technologies</sub>
 </td>
 <td valign="middle">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,python,qt&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="42" alt="C++">
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="42" alt="Dart">
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="42" alt="Flutter">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" alt="Python">
+  <img src="https://skillicons.dev/icons?i=qt&theme=dark" width="42" alt="Qt">
 </td>
 </tr>
 
 <tr>
-<td width="210" valign="middle">
+<td width="155" valign="middle">
   <b>ENGINEERING</b><br>
   <sub>Build & infrastructure</sub>
 </td>
 <td valign="middle">
-  <img src="https://skillicons.dev/icons?i=git,github,cmake,docker,linux,figma,ae&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="42" alt="CMake">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="42" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="42" alt="After Effects">
 </td>
 </tr>
 
 <tr>
-<td width="210" valign="middle">
+<td width="155" valign="middle">
   <b>AUTOMATION & DOMAINS</b><br>
   <sub>Platforms & specialized tooling</sub>
 </td>
 <td valign="middle">
-  <img src="https://skillicons.dev/icons?i=javascript,androidstudio,apple,arduino&theme=dark" height="48"/>
-  &nbsp;
-  <img src="https://img.icons8.com/fluency/96/car-service.png" height="48" alt="OBD-II / CAN" title="OBD-II / CAN"/>
-  &nbsp;
-  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="48" alt="AI" title="AI"/>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="42" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="42" alt="Android">
+  <img src="https://skillicons.dev/icons?i=apple&theme=dark" width="42" alt="iOS">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="42" alt="Arduino">
+  <img src="https://img.icons8.com/fluency/96/car-service.png" width="42" alt="OBD-II / CAN">
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="42" alt="AI">
 </td>
 </tr>
 </table>
@@ -70,7 +77,7 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iUnreallx&theme=github_dark"
+    src="https://streak-stats.demolab.com?user=iUnreallx&theme=github-dark-blue&hide_border=true"
     width="100%"
   />
 </p>
