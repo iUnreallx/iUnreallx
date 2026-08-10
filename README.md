@@ -59,8 +59,8 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 
 <tr>
 <td width="155" valign="middle">
-  <b>AUTOMATION & DOMAINS</b><br>
-  <sub>Platforms & specialized tooling</sub>
+  <b>AUTOMATION</b><br>
+  <sub>Platforms tooling</sub>
 </td>
 <td valign="middle">
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="42" alt="JavaScript">
