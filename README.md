@@ -79,6 +79,7 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
   <img
     src="https://streak-stats.demolab.com?user=iUnreallx&theme=github-dark-blue&hide_border=true"
     width="100%"
+    alt="GitHub Streak"
   />
 </p>
 
