@@ -77,9 +77,9 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/iUnreallx"
+    src="https://raw.githubusercontent.com/iUnreallx/iUnreallx/output/activity-graph.svg"
     width="100%"
-    alt="GitHub Contributions"
+    alt="GitHub Activity Graph"
   />
 </p>
 
