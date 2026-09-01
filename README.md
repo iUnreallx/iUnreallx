@@ -77,7 +77,7 @@ My goal is simple: hide technical complexity behind interfaces that feel fast, c
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iUnreallx&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iUnreallx&theme=github-compact&hide_border=true&v=2"
     width="100%"
     alt="GitHub Activity Graph"
   />
